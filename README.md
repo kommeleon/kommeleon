@@ -1,4 +1,4 @@
-I'm a student at kzn currently working with python at school and trying to get better at programming
+I'm a student at kzn currently working with python at school
 
 <!--
 **Kama-Leon/Kama-Leon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
